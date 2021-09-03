@@ -21,7 +21,7 @@ and play games
 [linkedin]: https://www.linkedin.com/in/harsh-rao-8b97906a/
 
 
-## Wanna check my recommendations [Click Here]\(https://github.com/hurshh/animelist/tree/main)
+## Wanna check my recommendations [Click Here](https://github.com/hurshh/animelist/tree/main) 
 ---
 ## Spotify Playing 🎧
 
