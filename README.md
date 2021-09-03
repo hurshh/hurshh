@@ -23,6 +23,4 @@ and play games
 
 ## Wanna check my recommendations [Click Here](https://github.com/hurshh/animelist/tree/main) 
 ---
-## Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="hursh songs" width="350" />](https://open.spotify.com/playlist/6aWbMEL0mJNVXdYbjzACUJ?si=71f1863e3f4e41d6)
