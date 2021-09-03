@@ -18,7 +18,7 @@ and play games
 
 [twitter]: https://twitter.com/bhaturawrld
 [instagram]: https://www.instagram.com/hursh_rao/
-[linkedin]: https://www.linkedin.com/in/harsh-rao-8b97906a/
+[linkedin]: https://www.linkedin.com/in/harsh-rao-8b97906a/ <br />
 
 
 ### Wanna check my recommendations [Click Here](https://github.com/hurshh/animelist/tree/main)
