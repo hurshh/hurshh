@@ -14,7 +14,7 @@ and play games
 
 [<img align="left" alt="hurshh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="hurshh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="hurshh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]\[instagram]
+[<img align="left" alt="hurshh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] \
 
 [twitter]: https://twitter.com/bhaturawrld
 [instagram]: https://www.instagram.com/hursh_rao/
