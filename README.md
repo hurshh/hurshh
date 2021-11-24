@@ -1,6 +1,6 @@
 ### Hi there, I'm Harsh. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-![alt text](https://64.media.tumblr.com/3aca7e84b3a6a52d10cc268ee103ec0d/677170b8b0cd1361-0f/s540x810/e27c4737057d82a8d5cd2e72bf6b5b6a7fae76f4.gifv)
+![alt text](http://pa1.narvii.com/7483/6fdfe9d924608693ef0197d693131a10524ab7ear1-352-200_00.gif)
 
 ## I'm an Undergraduate Student and I do competitive programming for fun
 - <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="35" height="35"/> I'm currently learning flutter
