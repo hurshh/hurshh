@@ -1,4 +1,4 @@
-### Hi there, I'm Harsh. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+### Hi there, I'm Harsh. <img src="https://thumbs.gfycat.com/PepperyGrizzledClownanemonefish-size_restricted.gif" width="30px">
 
 ![alt text](http://pa1.narvii.com/7483/6fdfe9d924608693ef0197d693131a10524ab7ear1-352-200_00.gif)
 
