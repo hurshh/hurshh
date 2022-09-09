@@ -17,7 +17,7 @@ and play games
 [<img align="left" alt="hurshh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] \
 
 [twitter]: https://twitter.com/bhaturawrld
-[instagram]: https://www.instagram.com/hursh_rao/
+[instagram]: https://www.instagram.com/hurshrao/
 [linkedin]: https://www.linkedin.com/in/harsh-rao-8b97906a/
 
 
